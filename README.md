@@ -51,7 +51,8 @@
 
 ## User Settings:
 
-	See file User_Settings.java
+	See file: User_Settings.java
+	*To activate new settin, please recompile the whole project.
 	
 ## Reminder:
 

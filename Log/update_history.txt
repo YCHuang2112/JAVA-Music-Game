@@ -1,0 +1,123 @@
+5/6
+	Pad_Controller.java
+		1.0版功能:'c'.d','g','p'對應四份音軌"C.wav","Dm.wav","G7.wav","DrumPattern.wav"
+	Test_Pad.java
+		1.0版功能:Test_Pad
+5/7
+	WaveForm.java
+		1.0版功能:能有不太準的波形圖
+	P_2.java
+		1.0版功能:落下式及誤差偵測
+	gameBoard.java
+		1.0版功能:Test_P_2
+	Pad_Controller.java
+		1.1版功能:按鍵可視化
+5/25
+	P_2.java
+		1.1版功能:this is commentation
+5/27
+	P_2.java
+		1.2版功能:the newer one after the convege circle can work now
+			but still the error determine  and color show be added
+5/28
+	P_2.java
+		1.3版功能:不知怎的從鍵盤  切換到滑鼠左鍵時會有 delay 0.5到1s
+			but right mouse click is normal
+			so just use right mouse click
+			with esc as halt
+	P_2.java
+		1.4版功能:Plus color of outter radius circle
+6/2
+	P_2.java
+		1.5版功能:與 PadController合併，新增註解
+	WaveForm.java
+		1.1版功能:波型圖處理與分貝計測試
+			待改:有不明延遲
+6/3
+	更新reference 1.1
+		新增 PCM(wav)encode方式
+	WaveForm.java
+		1.1版功能:延遲處理完畢
+	dB_Monitor.java
+		1.0版功能:就分貝計，用均方根算
+			待改:rms計算要花不少時間，蠻lag的
+	Test_Pad.java
+		1.1版功能:加裝分貝計，測試用
+6/4
+	更新 mario.wav 1.0
+	WriteWav.java
+		1.0版功能:將特定wav檔的magnitude除二
+	Test_TouchPad.java
+		1.1版功能:測試WriteWav
+		待改:TouchPad第一個音會爆
+6/5
+	Equalizer.java
+		1.0版功能:可撥音樂
+	test.java
+		1.0版功能:可撥音樂
+			待改:bug
+6/6
+	更新reference 1.2
+		新增java的midi相關method
+6/7
+	WriteWav.java→Compressor.java
+		1.1版功能:以textField與button輸入
+			待改:ADSR尚未完成
+	Test_Compressor.java
+		1.0版功能:測試Compressor
+	Test_TouchPad.java
+		1.2版功能:移除Compressor
+	dB_Monitor.java
+		1.1版功能:藉由減少timer run()的內容來盡量減少延遲
+	Pad_Controller.java
+		1.2版功能:與分貝計連結
+			待改:左邊還是有怪東西，剛開會有一堆exception，
+				分貝計一段時間在播一段時間後會停
+	Test_Pad.java
+		1.1版功能:移除dB_Monitor，只有Pad_Controller
+6/8
+	更新reference 1.3
+		新增panning的各種計算法
+	Compressor.java
+		1.2版功能:新增傳送音量與panning
+			待改:ADSR尚未完成
+	Compressor.java
+		1.3版功能:更改panning計算法，左右平方相加要為定植
+			待改:ADSR尚未完成
+6/11
+	PlugIn.java
+		1.0版功能:abstract class，用於各式Plug in，本身為JPanel
+	Compressor.java
+		1.4版功能:部分修改，extends PlugIn
+			待改:ADSR尚未完成
+6/14
+	Midi_test.java
+		1.0版功能:用print的顯示各個track的音符開與關
+6/15
+	更新reference 1.3
+		新增2DArrayList的各種用法
+	dB_Monitor.java
+		1.2版功能:改為extends PludIn.java
+	PadController.java
+		1.3版功能:製作2D plug-in array，移除分貝計 
+6/17
+	更新reference 1.4
+		Key Binding
+	PadController.java
+		1.4版功能:去掉keyListener，改為Key Binding
+			超爛的寫法
+	PlugInPanel.java
+		1.0版功能:利用JTextField作為plug in的選取
+	MixingPanel.java
+		1.0版功能:結合PlugInPanel,PadController,TouchPad
+6/18
+	Expander.java
+		1.0版功能:expander
+	Gate.java
+		1.0版功能:gate
+	BandPassFilter.java
+		1.0版功能:bandpass,pole
+6/19
+	PadController.java
+		1.5版功能:新增pluse和noise的音檔
+	

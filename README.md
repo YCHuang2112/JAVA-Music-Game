@@ -1,5 +1,5 @@
 # A mini music game and pad controller design 
-# (along with plug-ins.)
+# (along with plug-ins)
 
 ## Final project of Java programming, NCTU ECE, 2017.
 
@@ -8,6 +8,7 @@
 ####					姚宇聲 (Start panel and frequency domain signal processing),
  
 ####					鄭群瀚 (integration, composing songs, sound sampling, and time domain signal processing).
+
 
 
 ## prerequisite:

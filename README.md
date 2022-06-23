@@ -5,7 +5,7 @@
 
 ----
 
-#### Credit to: 
+#### Credited to: 
 		Yu-Cheng Huang (Game interface, logic, and hitting instances), 
 
 		姚宇聲 (Start panel and frequency domain signal processing),

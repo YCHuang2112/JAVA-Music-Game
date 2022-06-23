@@ -3,6 +3,8 @@
 
 ## Final project of Java programming, NCTU ECE, 2017.
 
+----
+
 #### Credit to: 
 		Yu-Cheng Huang (Game interface, logic, and hitting instances), 
 

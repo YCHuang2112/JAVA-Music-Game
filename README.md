@@ -4,11 +4,11 @@
 ## Final project of Java programming, NCTU ECE, 2017.
 
 #### Credit to: 
-		#### Yu-Cheng Huang (Game interface, logic, and hitting instances), 
+		Yu-Cheng Huang (Game interface, logic, and hitting instances), 
 
-		#### 姚宇聲 (Start panel and frequency domain signal processing),
+		姚宇聲 (Start panel and frequency domain signal processing),
  
-		#### 鄭群瀚 (integration, composing songs, sound sampling, and time domain signal processing).
+		鄭群瀚 (integration, composing songs, sound sampling, and time domain signal processing).
 
 -----
 

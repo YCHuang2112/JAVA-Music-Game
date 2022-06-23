@@ -24,7 +24,7 @@ Final project of Java programming, NCTU ECE, 2017.
 
 #Game Screen:
 
-	![](https://i.imgur.com/B9FxRNN.gif)
+	![gif](https://i.imgur.com/B9FxRNN.gif)
 
 #Game Logic:
 

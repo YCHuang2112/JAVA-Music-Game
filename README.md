@@ -1,7 +1,8 @@
 A mini music game and pad controller design along with plug-ins.
 Final project of Java programming, NCTU ECE, 2017.
 
-prerequisite:
+#prerequisite:
+
 	JAVA jdk Version: 1.8.0_202 (jdk1.8.0_202)
 	/*
 		Notice: 
@@ -10,7 +11,7 @@ prerequisite:
 			sun.audio.* is used in this project to play music file (*.wav, *.mid)
 	*/
 
-To Compile & Run:
+#To Compile & Run:
 	copy all the music file (*.wav, *.mid) from "Music_Source" directory to the current directory
 
 	Then, executing following commands:
@@ -21,10 +22,12 @@ To Compile & Run:
 	Click on Game Start button, and enjoy yourself
 	//Notice: Change your keyboard input into English one is required
 
-Game Screen:
+#Game Screen:
 
+	![](https://github.com/JAVA-Music-Game/Music_Source/Your_GIF_Name.gif)
 
-Game Logic:
+#Game Logic:
+
 	Falling Bars:
 		Key Q, W, E, R correspoding to 4 tracks of falling bars from left to right respectively.
 		Press keys to hit the bars when they fall on to the bottom determination line.
@@ -32,10 +35,12 @@ Game Logic:
 	Contrating Circles:
 		Click on the center parts of circles to hit them.
 
-User Settings:
+#User Settings:
+
 	See file User_Settings.java
 	
-Reminder:		
+#Reminder:
+
 	According to the midi file, instances (Falling Bars & Contrating Circles) are generated 
 	according to when the note will be played.  Computing when them should appeared on the
 	screen so that they will meet the music rhythm when being hit.

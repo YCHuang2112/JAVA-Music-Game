@@ -22,8 +22,8 @@ Final project of Java programming, NCTU ECE, 2017.
 	Click on Game Start button, and enjoy yourself
 	//Notice: Change your keyboard input into English one is required
 
-#Game Screen:
-
+##Game Screen:
+![gif](http://i.imgur.com/nvEHTgn.gif)
 	![screen-gif](./GIF/Screen1.gif)
 	
 	<img src="./GIF/Screen1.gif" alt="My Project GIF" width="500" height="600">

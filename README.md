@@ -24,7 +24,9 @@ Final project of Java programming, NCTU ECE, 2017.
 
 #Game Screen:
 
-	![gif](https://i.imgur.com/B9FxRNN.gif)
+	![screen-gif](./GIF/Screen1.gif)
+	
+	<img src="./GIF/Screen1.gif" alt="My Project GIF" width="500" height="600">
 
 #Game Logic:
 

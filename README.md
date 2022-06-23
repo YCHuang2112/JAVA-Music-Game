@@ -24,7 +24,7 @@ Final project of Java programming, NCTU ECE, 2017.
 
 #Game Screen:
 
-	![](https://github.com/JAVA-Music-Game/Music_Source/Your_GIF_Name.gif)
+	![](https://github.com/JAVA-Music-Game/GIF/S.gif)
 
 #Game Logic:
 

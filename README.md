@@ -25,7 +25,7 @@
 ## Game Screen:
 ![screen-gif](./GIF/Screen1.gif)
 	
-<img src="./GIF/Screen1.gif" alt="My Project GIF" width="500" height="600">
+<!-- <img src="./GIF/Screen1.gif" alt="My Project GIF" width="500" height="600"> -->
 
 ## Game Logic:
 

@@ -3,9 +3,10 @@
 
 ## Final project of Java programming, NCTU ECE, 2017.
 
+####  Project Site: https://github.com/YCHuang2112/JAVA-Music-Game
 ----
 
-#### Credited to: 
+#### Credited to:
 		Yu-Cheng Huang (Game interface, logic, and hitting instances), 
 
 		姚宇聲 (Start panel and frequency domain signal processing),
@@ -15,7 +16,6 @@
 -----
 
 ## prerequisite:
-
 	JAVA jdk Version: 1.8.0_202 (jdk1.8.0_202)
 	/*
 		Notice: 
@@ -36,7 +36,6 @@
 	//Notice: Change your keyboard input into English one is required
 
 ## Game Operation & Logic:
-
 	Falling Bars:
 		Key Q, W, E, R correspoding to 4 tracks of falling bars from left to right respectively.
 		Press keys to hit the bars when they fall on to the bottom determination line.
@@ -50,12 +49,10 @@
 <!-- <img src="./GIF/Screen1.gif" alt="My Project GIF" width="500" height="600"> -->
 
 ## User Settings:
-
 	See file: User_Settings.java
 	*To activate new settin, please recompile the whole project.
 	
 ## Reminder:
-
 	According to the midi file, instances (Falling Bars & Contrating Circles) are generated 
 	according to when the note will be played.  Computing when them should appeared on the
 	screen so that they will meet the music rhythm when being hit.

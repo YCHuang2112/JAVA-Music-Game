@@ -35,12 +35,7 @@
 	Click on Game Start button, and enjoy yourself
 	//Notice: Change your keyboard input into English one is required
 
-## Game Screen:
-![screen-gif](./GIF/Screen1.gif)
-	
-<!-- <img src="./GIF/Screen1.gif" alt="My Project GIF" width="500" height="600"> -->
-
-## Game Logic:
+## Game Operation & Logic:
 
 	Falling Bars:
 		Key Q, W, E, R correspoding to 4 tracks of falling bars from left to right respectively.
@@ -48,6 +43,11 @@
 	
 	Contrating Circles:
 		Click on the center parts of circles to hit them.
+
+## Game Screen:
+![screen-gif](./GIF/Screen1.gif)
+	
+<!-- <img src="./GIF/Screen1.gif" alt="My Project GIF" width="500" height="600"> -->
 
 ## User Settings:
 
